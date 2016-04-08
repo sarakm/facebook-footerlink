@@ -1,0 +1,228 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"i",
+				"iframe"
+			],
+			[
+				"s",
+				"script"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/jstest/index.html",
+		"/C/Users/HouseHold/Downloads/CodeIgniter-3.0.1/CodeIgniter-3.0.1/index.php",
+		"/C/xampp/apache/logs/error.log",
+		"/C/xampp/php/logs/php_error_log",
+		"/C/Users/HouseHold/Desktop/govpress/movies-page.php",
+		"/C/Users/HouseHold/Desktop/govpress/jobaids-page.php",
+		"/C/Users/HouseHold/Desktop/govpress/archive.php",
+		"/C/Users/HouseHold/Desktop/govpress/taxonomy-archive.php",
+		"/C/Users/HouseHold/Desktop/govpress/taxonomy.php",
+		"/C/xampp/htdocs/KTB/wp-content/themes/ktb/functions.php",
+		"/C/xampp/htdocs/KTB/wp-content/index.php",
+		"/C/xampp/htdocs/KTB/wp-content/mu-plugins/client/zg_documentation.xml",
+		"/C/xampp/htdocs/KTB/wp-content/mu-plugins/zg_lib/ZG_Widget.php",
+		"/C/xampp/htdocs/KTB/wp-content/mu-plugins/zg_lib/zg-utilities.php",
+		"/C/xampp/htdocs/KTB/wp-content/mu-plugins/client/KTB_Presentations_Taxonomy.php",
+		"/C/xampp/htdocs/KTB/wp-content/mu-plugins/client/KTB_Presentations.php",
+		"/C/xampp/htdocs/govpress/archive-jobaids.php",
+		"/C/Users/HouseHold/Desktop/jobaid-archive.php",
+		"/C/Users/HouseHold/AppData/Local/Temp/fz3temp-1/functions.php",
+		"/C/Users/HouseHold/AppData/Local/Temp/fz3temp-1/search.php",
+		"/C/Users/HouseHold/AppData/Local/Temp/fz3temp-1/custom-layout-template.php",
+		"/C/xampp/htdocs/search-cpt",
+		"/C/xampp/htdocs/index.php",
+		"/C/xampp/htdocs/govpress/searchform.php",
+		"/C/xampp/htdocs/robert.php",
+		"/C/xampp/htdocs/ctv/myVideo.html",
+		"/C/xampp/htdocs/ctv/test.html",
+		"/C/xampp/htdocs/ctv/js/xmlscript.js",
+		"/C/Users/HouseHold/Documents/GitHub/simpleserver/index.html",
+		"/C/Users/HouseHold/Documents/GitHub/simpleserver/css/style.css",
+		"/C/xampp/htdocs/ctv/test1.html",
+		"/C/Users/HouseHold/Desktop/ThemeDev/InstantWP_4.5/iwpserver/htdocs/wordpress/wp-content/themes/twentytwelve-child/functions.php",
+		"/C/Users/HouseHold/Documents/GitHub/simpleserver/page1.html",
+		"/C/Users/HouseHold/Documents/GitHub/simpleserver/page2.html",
+		"/C/Users/HouseHold/Desktop/ThemeDev/InstantWP_4.5/iwpserver/htdocs/wordpress/wp-content/themes/twentytwelve-child/style.css",
+		"/C/Users/HouseHold/Documents/GitHub/simpleserver/css/bootstrap.min.css",
+		"/C/Users/HouseHold/Documents/GitHub/simpleserver/server.js",
+		"/C/Users/HouseHold/Documents/GitHub/simpleserver/index_1.html",
+		"/C/xampp/htdocs/ctv/js/requireDependency.js",
+		"/C/xampp/htdocs/CI/application/config/smileys.php",
+		"/C/xampp/htdocs/CI/application/index.html",
+		"/C/xampp/htdocs/CI/application/controllers/Welcome.php",
+		"/C/xampp/htdocs/CI/application/views/welcome_message.php",
+		"/C/xampp/htdocs/CI/application/controllers/blog.php",
+		"/C/xampp/htdocs/CI/application/controllers/index.html",
+		"/C/xampp/htdocs/CI/application/models/index.html"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"position",
+			"max-width",
+			"padding",
+			"ul",
+			"nav",
+			"disc",
+			" ><",
+			"ul",
+			"Toggle",
+			"clip"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "facebook-footerlink.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 223.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
